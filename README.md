@@ -9,7 +9,7 @@ Resume Scout is a dynamic, fully responsive, and scalable AI-powered Resume Anal
 ![image](https://github.com/user-attachments/assets/bcc25d08-8705-46c2-a1f9-70773d0caaf9)
 ![image](https://github.com/user-attachments/assets/ff008df0-7155-4966-b3dd-c3e44cb1b2df)
 ![image](https://github.com/user-attachments/assets/e7e44e2e-754e-47bc-88f0-c1d852f087f9)
-![image](https://github.com/user-attachments/assets/b51b5604-dea9-4b30-888f-c620fbf729c8)
+
 
 
 
